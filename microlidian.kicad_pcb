@@ -3314,7 +3314,7 @@
   (gr_text "back" (at 159.8422 94.488) (layer "F.SilkS") (tstamp 2cc2e96c-69ec-454e-bef5-9d5ea330cea2)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "USB MIDI IN/OUT" (at 140.78239 144.6598) (layer "F.SilkS") (tstamp 407975d9-b16c-4ebc-8e26-28c875317437)
+  (gr_text "USB MIDI IN/OUT" (at 140.462 144.6598) (layer "F.SilkS") (tstamp 407975d9-b16c-4ebc-8e26-28c875317437)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "μlidian" (at 137.532 41.874) (layer "F.SilkS") (tstamp 57af2a19-c39e-4716-8ec4-021041426e2b)
