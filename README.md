@@ -29,7 +29,7 @@
 - Change footprint of the encoder decoupling capacitors as the footprint is too big
 - Don't need the -12v diode
 - Add the 47k (check this!) pullups for the encoder left/right
-- Why doesn't 
+- Why doesn't it restart properly after uploading new code now - runs fine when debugged - seemed to stop working after adding the encoder left/right pullups?
 
 ### Possible changes/upgrades
 
